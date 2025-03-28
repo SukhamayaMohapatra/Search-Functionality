@@ -1,2 +1,2 @@
 # Search-Functionality
-implemented serach functionality in React.js
+implemented serach functionality in React.js Application
